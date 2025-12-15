@@ -1,0 +1,63 @@
+# PMO Thinking Map – Project Controllability (Exploratory)
+
+## Overview
+
+This repository contains an **exploratory thinking map** that examines why project issues often become visible **only after controllability has already been reduced**, particularly in PMO and project governance contexts.
+
+The focus is not on execution or methodology, but on **structural explanation**.
+
+---
+
+## Core Question
+
+Why do many projects appear manageable at early stages,  
+yet later experience sudden loss of controllability?
+
+This thinking map explores what happens **before formal PMO intervention becomes possible**.
+
+---
+
+## Structural Perspective
+
+From observation, project-level issues often follow a pattern:
+
+- Issues exist but remain unseen
+- Issues are seen but not interpreted as signals
+- Signals do not trigger decision-making
+- Decisions are delayed
+- Uncertainty amplifies during the delay
+
+This sequence represents a **decision-pre failure structure**, rather than a project management process.
+
+---
+
+## Relation to PMO Context
+
+In this view, the PMO does not cause these failures.
+
+Instead, PMO intervention typically begins **after** this structural sequence has already unfolded.
+
+The thinking map serves as an upstream context for understanding:
+- why PMO involvement often feels reactive
+- why issues appear “sudden” despite long incubation periods
+
+---
+
+## Scope and Boundary
+
+This repository intentionally does NOT provide:
+- operational guidance
+- implementation steps
+- decision rules or intervention strategies
+
+It is maintained as a **descriptive and analytical reference**, not a methodology.
+
+---
+
+## Status
+
+This is an **early-stage conceptual thinking map**  
+maintained at a descriptive level (Level 1–2).
+
+Its purpose is to support reflection and further observation,  
+not to define best practices.
