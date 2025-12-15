@@ -1,15 +1,16 @@
-# Decision-Visibility-Delay
-Exploratory Thinking Maps on How Issues Are Seen — and Why Decisions Lag
+# Decision Visibility & Delay  
+### Exploratory Thinking Maps on How Issues Are Seen — and Why Decisions Lag
 
 ---
 
 ## Overview
 
-This repository serves as a **long-term thinking and analysis archive** for exploring why issues in complex systems often fail to surface or trigger timely decisions.
+This repository explores **decision visibility and delay** in complex systems —  
+how issues become visible, how signals are interpreted, and why decisions often lag behind awareness.
 
-The focus is on **decision-pre structures** — what happens *before* formal intervention, optimization, or execution becomes possible.
+The focus is on **early-stage structural conditions** that shape whether problems are noticed, ignored, or acted upon over time, across project, organizational, and analytical contexts.
 
-This work is **analytical and descriptive**, not methodological or prescriptive.
+This work is **exploratory and descriptive**, emphasizing thinking maps and structural reflection rather than methods, solutions, or prescriptive frameworks.
 
 ---
 
@@ -22,7 +23,24 @@ I explore questions such as:
 - Why does awareness fail to trigger decision-making?
 - Why does decision latency amplify uncertainty over time?
 
-These questions are examined across **project, organizational, and analytical contexts**, without locking into a single role or discipline.
+These questions are examined without assuming a single role, discipline, or solution space.
+
+---
+
+## Example Contexts (Non-Exhaustive)
+
+While the questions here are domain-agnostic, I often reflect on them through:
+
+- **PMO / project controllability**  
+  (why issues surface late and feel “sudden” in projects)
+
+- **Data and analytics workflows**  
+  (signal detection, latency, and delayed feedback)
+
+- **Organizational decision-making**  
+  (visibility, interpretation, and delayed activation)
+
+These contexts are examples, not a fixed scope.
 
 ---
 
@@ -45,20 +63,19 @@ This repository is intentionally structured to allow **multiple future direction
 (e.g. data analysis, project reflection, or other analytical work)  
 to grow from the same problem space.
 
-- `thinking_maps/`  
-  Conceptual maps and structural sketches of decision-pre failure patterns
+- [`thinking_maps/`](thinking_maps/)  
+  Conceptual maps and structural sketches of decision visibility and delay
 
-- `observations/`  
+- [`observations/`](observations/)  
   Phenomenon-level notes and recurring real-world patterns
 
-- `analysis_notes/`  
+- [`analysis_notes/`](analysis_notes/)  
   Analytical reasoning, reflections, and explanatory drafts
 
-- `data_notes/`  
-  Reserved for future **data-oriented exploration or analysis projects**  
-  (e.g. using data to examine visibility, signals, or decision latency)
+- [`data_notes/`](data_notes/)  
+  Reserved for future data-oriented exploration or analysis projects
 
-- `references/`  
+- [`references/`](references/)  
   Theoretical background and literature comparisons
 
 At present, most content remains at **Level 1–2**  
@@ -73,10 +90,10 @@ This repository functions as a **conceptual and analytical foundation**.
 Future projects — such as data analysis, case-based studies, or applied explorations —  
 may be added either:
 
-- as subfolders within this repository (e.g. under `data_notes/`), or  
-- as separate repositories that link back here as their **conceptual origin**.
+- as subfolders within this repository, or  
+- as separate repositories that link back here as their conceptual origin.
 
-In this sense, projects are treated as **ways to explore or validate questions**,  
+Projects are treated as **ways to explore questions**,  
 not as isolated outputs.
 
 ---
