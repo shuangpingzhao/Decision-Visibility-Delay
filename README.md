@@ -105,3 +105,12 @@ This repository is **exploratory and evolving**.
 It is intentionally incomplete,  
 serving as a space for observation, clarification, and reflection  
 before any method, model, or solution is defined.
+
+## Final Note
+
+This repository documents an exploratory framework developed to reflect on decision visibility and delay in complex systems.
+
+The purpose of this project was to clarify early conceptual observations rather than to produce a finalized, deployable, or operational model. As such, the repository is intentionally concluded at this stage.
+
+Further thinking in this direction continues privately and may later evolve into applied or technical forms in different contexts.
+
